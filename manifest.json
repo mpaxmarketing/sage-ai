@@ -5,11 +5,11 @@
     {
       "type": "system context",
       "name": "Sage_AI System Context",
-      "version": "1",
+      "version": "2",
       "date": "2026-11-12",
       "path": "sage-ai-context/system",
       "package": "sage-ai-context/system/Sage_AI_System_Context_20261112.json",
-      "notes": "First release. The system instructions as published at mpaxmarketing.com/system-instructions/ on 2026-11-08, in the mpax-ai-document envelope. It still describes the version 1 script flow with Preview and a named version, until the library row is corrected and a new dated file replaces this one."
+      "notes": "Second release, the same day. The system instructions as published at mpaxmarketing.com/system-instructions/, corrected for script version 2. No Preview, no named version, a failed edit is skipped, and the pairs form is the fallback. The file replaces the first release under the same name."
     },
     {
       "type": "skill",
