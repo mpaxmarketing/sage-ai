@@ -1,0 +1,24 @@
+{
+  "repository": "mpaxmarketing/sage-ai",
+  "license": "MIT",
+  "assets": [
+    {
+      "type": "skill",
+      "name": "Sage_AI Doc Edits",
+      "version": "1",
+      "date": "2026-11-12",
+      "path": "skills/sage-ai-doc-edits",
+      "package": "skills/sage-ai-doc-edits/sage-ai-doc-edits.zip",
+      "notes": "First release. Offers the Sage_AI Edits script, writes the JSON correction file from a live read, checks the script version, reports a failed edit and stops, and falls back to pairs for a Pending Updates tab. Written for script version 2."
+    },
+    {
+      "type": "script",
+      "name": "Sage_AI Edits script",
+      "version": "2",
+      "date": "2026-11-11",
+      "path": "scripts/sage-ai-edits",
+      "package": "scripts/sage-ai-edits/ApplyCorrections_v2.gs",
+      "notes": "No Preview. A failed edit is skipped and the rest apply. A result panel and a Copy result button give Sage_AI a report. A new heading can take a named style. The paragraph limit is removed. The M-PaX brand is on the dialog."
+    }
+  ]
+}
