@@ -5,11 +5,11 @@
     {
       "type": "system context",
       "name": "Sage_AI System Context",
-      "version": "3",
+      "version": "4",
       "date": "2026-11-14",
       "path": "sage-ai-context/system",
       "package": "sage-ai-context/system/Sage_AI_System_Context_20261114.json",
-      "notes": "Third release. The system instructions as in the library on 11/14/2026. Sage_AI edits Google Docs and Sheets through the Docs and Sheets plugins, with numbered pairs as the fallback. Adds the four step Mission Sequence, Discussion Mode, the slate and the corrections review, and the repository as the only route, with Sync now. The file is a new dated file and the 20261112 file stays as history."
+      "notes": "Fourth release. The system instructions as in the library on 11/14/2026. The route is a clone of the repository at the start of every session, which replaces the attached repository and Sync now. Adds the rule for handing a file to the Product Owner or the coding agent with its byte size and SHA-256. Running Sage_AI requires a Claude Pro plan or above. The 20261114 file replaces the version 3 file of the same name, and the 20261112 file stays as history."
     },
     {
       "type": "skill",
